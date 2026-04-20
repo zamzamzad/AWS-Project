@@ -1,9 +1,8 @@
 # AWS Enterprise Infrastructure Project
 
-## Project Overview
 This project deploys a production-ready infrastructure on AWS including VPC, EC2, ALB, and RDS.
 
-## Architecture
+
 - **VPC**: zmzm-vpc (10.0.0.0/16)
 - **Public Subnets**: 
   - zmzm-prod-public-1 (AZ1)
@@ -30,9 +29,3 @@ Due to Whiz Labs sandbox limitations, RDS creation was not permitted (rds:Create
 - EC2 Instances (Running)
 - Load Balancer (Active)
 - ALB DNS name working
-
-## Video Demo
-[Insert video link here]
-
-## GitHub Repository
-[Insert your GitHub repo link here]
