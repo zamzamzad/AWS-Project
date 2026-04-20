@@ -29,3 +29,6 @@ Due to Whiz Labs sandbox limitations, RDS creation was not permitted (rds:Create
 - EC2 Instances (Running)
 - Load Balancer (Active)
 - ALB DNS name working
+
+
+##Architecture-Diagram.drawio.png
